@@ -1,5 +1,17 @@
 <h1 align="center" dir="auto">Hi 👋, I’m Deepak Linus</h1>
+<p align="left" dir="auto">
+   <a target="_blank" 
+      rel="noopener noreferrer" 
+      href="https://komarev.com/ghpvc/?username=DeepakLinus&color=brightgreen">
+     <img src="https://komarev.com/ghpvc/?username=DeepakLinus&color=brightgreen" 
+          alt="DeepakLinus" 
+          data-canonical-src="https://komarev.com/ghpvc/?username=DeepakLinus&color=brightgreen" 
+          style="max-width: 100%;">
+    
+   </a>
+ </p>
 <ul dir="auto">
+  
   <li>🌱 I’m currently learning Data Science</li>
   <li>👨‍💻 All of my projects are available at <a href="https://github.com/DeepakLinus?tab=repositories">
     <img align="center" 
